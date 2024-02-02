@@ -1,0 +1,26 @@
+{
+    "data":[
+        {
+            "name":"portfolio",
+            "image":"https://www.w3schools.com/spaces/portfolio_template.png",
+            "site":"Portfolio"
+        },
+        {
+            "name":"blog",
+            "image":"https://www.w3schools.com/spaces/blog_template.png",
+            "site":"Blog"
+        },
+        {
+            "name":"webshop",
+            "image":"https://www.w3schools.com/spaces/blog_template.png",
+            "site":"WebShop"
+        },
+        {
+            "name":"tutor",
+            "image":"https://www.w3schools.com/spaces/blog_template.png",
+            "site":"Tutor"
+        }
+    ]
+}
+
+    
